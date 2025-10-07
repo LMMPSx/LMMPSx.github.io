@@ -1,4 +1,4 @@
-# Currículo - [Luiz Miguel Mororó Paulino dos Santos]
+# Currículo - Luiz Miguel Mororó Paulino dos Santos
 
 Este repositório contém a versão em HTML do meu currículo, ideal para visualização online ou para estilização futura.
 
