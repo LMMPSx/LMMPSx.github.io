@@ -18,10 +18,6 @@ Sou um estudante de Análise de Desenvolvimento de Sistemas, com conhecimentos e
    Ainda em desenvolvimento.
    GitHub: [link](https://github.com/LMMPSx/PI-Corpo-De-Bombeiros)
 
-2. **Portfólio Pessoal**  
-   Site pessoal responsivo em HTML, CSS e JavaScript.  
-   GitHub: [link](https://github.com/LMMPSx/LMMPSx.github.io)
-
 ## Como visualizar
 
 Abra o arquivo `index.html` em qualquer navegador web.
